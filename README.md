@@ -1,2 +1,3 @@
 # Open-Touch-4th-Tools
-<a href="20090126.xyz" target="_blank">新标签页打开链接</a>
+###本工具已归档，请使用我们的新项目
+<a href="https://github.com/appleiPodTouch4/Open-Touch-4th-Tools"><strong>iPwnTouch »</strong></a>
